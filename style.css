@@ -10,12 +10,25 @@ header{
 	margin: 5% 0 20% 0;
 	text-align: center;
 }
+h1{
+	font-size: 70px;
+}
+h2{
+	font-size: 30px;
+}
+h3{
+	font-size: 35px;
+	text-align: center;
+}
 
 .has-float-label{
 	background: aquamarine;
 	padding: 10px 0;
-	font-size: 40px;
+	font-size: 30px;
+}
 
+input[type=email]{
+	border-radius: 30px;
 }
 
 span{

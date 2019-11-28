@@ -6,16 +6,19 @@ article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary
 
 .visuallyHidden:not(:focus):not(:active) { position: absolute; width: 1px; height: 1px; margin: -1px;border: 0;padding: 0;white-space: nowrap;clip-path: inset(100%);clip: rect(00 0 0);overflow: hidden;}
 
-body{
-	margin-top: 40%;
+header{
+	margin: 5% 0 20% 0;
+	text-align: center;
 }
 
 .has-float-label{
 	background: aquamarine;
 	padding: 10px 0;
+	font-size: 40px;
 
 }
 
 span{
 	padding: 10px;
+	font-size: 25px;
 }
